@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and aspiring c
 I enjoy solving puzzles, exploring new hiking trails, and working on innovative projects that blend creativity with technology. 😊
 
 ## 📊 GitHub Stats
-![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyakhanna&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakhanna&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to connect or collaborate. Let's build something amazing together! 🚀
