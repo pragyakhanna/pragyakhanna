@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Pragya Khanna! 👋
 
-<!--
-**pragyakhanna/pragyakhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer and aspiring computer engineer with a keen interest in **web development**, **machine learning**, and **full-stack solutions**. I love exploring new technologies, collaborating on impactful projects, and continuously improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- **[Reinforcement Learning Agent](#)**: Built and trained an RL agent using Python, PyTorch, and Gymnasium to achieve advanced performance in Lunar Lander simulations.
+- **[Fit-Plant Dashboard](#)**: A responsive React-based interface that visualizes real-time sensor data with Firebase for secure backend functionality.
+
+---
+
+## 🌱 Learning Goals
+- Mastering **Reinforcement Learning** and AI techniques.
+- Exploring **cloud computing platforms** like AWS and Azure.
+- Enhancing skills in **DevOps** and **CI/CD practices**.
+
+---
+
+## 💬 Ask me about
+- **Web Development**: HTML, CSS, JavaScript, React, Flask  
+- **Backend Development**: Node.js, SQL, Python, C#  
+- **Data Science & Machine Learning**: Pandas, NumPy, PyTorch  
+- **Version Control**: Git, Azure DevOps, GitHub  
+
+---
+
+## 📫 How to reach me
+- Email: [pragyakhanna0810@gmail.com](mailto:pragyakhanna0810@gmail.com)
+- LinkedIn: [Pragya Khanna](https://www.linkedin.com/in/pragya-khanna)
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving puzzles, exploring new places, and working on innovative projects that blend creativity with technology. 😊
+
+---
+
+## 📈 GitHub Stats
+![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=khannp3&show_icons=true&theme=radical)
+
+
+Thank you for visiting my profile! Feel free to connect or collaborate. Let's build something amazing together! 🚀
