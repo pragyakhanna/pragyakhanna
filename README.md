@@ -1,30 +1,17 @@
-# Hi there, I'm Pragya Khanna! 👋
+# 👋 Hey there, I'm Pragya!  
 
-Welcome to my GitHub profile! I'm a passionate software developer and aspiring computer engineer with a keen interest in **web development**, **machine learning**, and **full-stack solutions**. I love exploring new technologies, collaborating on impactful projects, and continuously improving my skills.
+I'm a **Computer Engineer**, **Full Stack Developer**, and **Curious Innovator!**  
 
-## 🔭 Current Projects
-- **[Reinforcement Learning Agent](#)**: Built and trained an RL agent using Python, PyTorch, and Gymnasium to achieve advanced performance in Lunar Lander simulations.
-- **[Fit-Plant Dashboard](#)**: A responsive React-based interface that visualizes real-time sensor data with Firebase for secure backend functionality.
+- I’m currently building a **cross-platform app** using **React Native CLI** and **AWS**  
+- I recently finished my personal portfolio: [pragyakhanna.github.io](https://pragyakhanna.github.io)  
+- I’m expanding my knowledge in **AI** and **Product Engineering**  
+- **2025 Goal:** Apply my skills in a professional environment  
+- **Fun fact:** I love hiking, baking, board games, and building projects that bridge **hardware and software**  
 
-## 🌱 Learning Goals
-- Mastering **Reinforcement Learning** and AI techniques.
-- Exploring **cloud computing platforms** like AWS and Azure.
-- Enhancing skills in **DevOps** and **CI/CD practices**.
 
-## 💬 Ask me about
-- **Web Development**: HTML, CSS, JavaScript, React, Flask  
-- **Backend Development**: Node.js, SQL, Python, C#  
-- **Data Science & Machine Learning**: Pandas, NumPy, PyTorch  
-- **Version Control**: Git, Azure DevOps, GitHub  
+### 🤝 Connect with me  
+[LinkedIn](https://linkedin.com/in/pragyakhanna) • [Portfolio](https://pragyakhanna.github.io)  
 
-## 📫 How to reach me
-- Email: [pragyakhanna0810@gmail.com](mailto:pragyakhanna0810@gmail.com)
-- LinkedIn: [Pragya Khanna](https://www.linkedin.com/in/pragya-khanna)
 
-## ⚡ Fun Fact
-I enjoy solving puzzles, exploring new hiking trails, and working on innovative projects that blend creativity with technology. 😊
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakhanna&layout=compact&theme=radical)
-
-Thank you for visiting my profile! Feel free to connect or collaborate. Let's build something amazing together! 🚀
