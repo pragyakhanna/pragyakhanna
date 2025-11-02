@@ -10,7 +10,7 @@ I'm a **Computer Engineer**, **Full Stack Developer**, and **Curious Innovator!*
 
 
 ### 🤝 Connect with me  
-[LinkedIn](https://linkedin.com/in/pragyakhanna) • [Portfolio](https://pragyakhanna.github.io)  
+[LinkedIn](https://www.linkedin.com/in/pragya-khanna/) • [Portfolio](https://pragyakhanna.github.io)  
 
 
 ### 📊 GitHub Stats  
